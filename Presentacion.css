@@ -1,0 +1,11 @@
+body {font-family: 'Times New Roman', Times, serif;margin: 0;padding: 0;background-image: url(fondounap.jpg);}
+        header {background-color: rgb(5, 71, 5);padding: 50px;text-align: center;}
+        h1 {color: white;margin: 0;}
+        h2 {color: white;margin: 0;}
+        .nya{color: rgb(7, 71, 28);text-align: center;font-size: 150%;}
+        .container {display: flex; justify-content: center;  align-items: center;  flex-wrap: wrap;  padding: 20px;}
+        .image-container { width: 250px;  margin: 10px;}
+        .image-container img { width: 100%; height: auto; }
+        .menu {  display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 20px;}
+        .menu-item {  background-color: #3ccc5b;  padding: 10px 20px; margin: 10px; text-align: center;   text-decoration: none; color: #333;border-radius: 5px;}
+        .menu-item:hover {background-color: #7dd3ab;}
